@@ -33,11 +33,11 @@ __screen blueprint__
 
 <img src="images/page2.PNG">
 
-<img src="images/sm1.PNG" style="margin: 0;">
+<img src="images/sm1.PNG">
 
-<img src="images/sm2.PNG" style="margin: 0;">
+<img src="images/sm2.PNG">
 
-<img src="images/Weather-french.jpeg" style="margin: 0;">
+<img src="images/Weather-french.jpeg">
 
 
 
