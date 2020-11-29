@@ -29,7 +29,7 @@ This project demonestrate some of JQuery technologies such as
 
 * API
 
-<img src="weather-app/images/Weather-french.jpeg" style="margin: 0;">
+<img src="images/Weather-french.jpeg" style="margin: 0;">
 
 
 
