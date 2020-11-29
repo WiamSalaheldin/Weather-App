@@ -29,6 +29,8 @@ This project demonestrate some of JQuery technologies such as
 
 * API
 
+![Alt Text](C:\Users\14389\Desktop)
+
 
 __Click the link below to visit the website__
 
