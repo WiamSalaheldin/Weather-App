@@ -29,7 +29,7 @@ This project demonestrate some of JQuery technologies such as
 
 * API
 
-![Alt Text](weather-app/images/Weather-french.jpeg)
+<img src="weather-app/images/Weather-french.jpeg" style="margin: 0;">
 
 
 
