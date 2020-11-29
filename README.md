@@ -31,6 +31,14 @@ This project demonestrate some of JQuery technologies such as
 
 __screen blueprint__
 
+<img src="images/page1.PNG" style="margin: 0;">
+
+<img src="images/page2.PNG" style="margin: 0;">
+
+<img src="images/sm1.PNG" style="margin: 0;">
+
+<img src="images/sm2.PNG" style="margin: 0;">
+
 <img src="images/Weather-french.jpeg" style="margin: 0;">
 
 
