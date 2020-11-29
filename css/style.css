@@ -1,0 +1,136 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right,  #808edf 10%,#3552e0 90%);
+    padding: 2%;
+    min-height: 400px;
+   margin-bottom: 100px;
+   clear: both;
+}
+
+.navbar {
+    background: linear-gradient(to right,  #808edf 10%,#3552e0 90%);
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: rgb(148, 147, 147);
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+.btn{
+    background-color: rgb(239, 252, 251);
+    color: rgb(3, 16, 73);
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+h1 {
+    color: rgb(3, 16, 73);
+    font-style: italic;
+    font-weight: bold;
+}
+
+#lab {
+    color: rgb(3, 16, 73);
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(3, 16, 73);
+}
+
+#bot {
+    color: rgb(3, 16, 73);
+}
+p{ 
+    padding: 2%;
+    margin: auto;
+    text-align: center;
+}
+
+    .mybtn{
+    border-radius:50px;
+    }
+
+   h3 {
+       font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+    
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #808edf;
+    color: rgb(15, 15, 15);
+    text-align: center;
+    font: bold;
+    padding: 0%;
+    height: 7%;
+    
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+	background: rgba(255, 255, 255, 0.8);
+	box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+#image {
+    width: max-content;
+}
+#form-sub{
+    padding: 0%;
+}
+
+@media (max-width: 575.98px) {
+    .description {
+      left: 0;
+      padding: 0 15px;
+      position: absolute;
+      top: 10%;
+      transform: none;
+      text-align: center;
+    }
+}
+.social-networks li {
+    display: inline;
+  }
+  .social-networks i {
+    font-size: 120%;
+    margin: 1%;
+    padding: 1%;
+    color: #0a0a0a;
+  }
