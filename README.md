@@ -31,4 +31,4 @@ This project demonestrate some of JQuery technologies such as
 
 Click the link below to visit the website
 
-https://wiamsalaheldin.github.io/my-weather-app/index.html
+https://wiamsalaheldin.github.io/weather-app/index.html
