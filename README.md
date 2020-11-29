@@ -25,8 +25,6 @@ Create a Single Page Application that relies heavily on one or more APIs
 
 **Skills**
 
-This project demonestrate some of JQuery technologies such as
-
 * API
 
 __screen blueprint__
