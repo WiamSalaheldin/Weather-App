@@ -29,9 +29,9 @@ Create a Single Page Application that relies heavily on one or more APIs
 
 __screen blueprint__
 
-<img src="images/page1.PNG" style="margin: 0;">
+<img src="images/page1.PNG">
 
-<img src="images/page2.PNG" style="margin: 0;">
+<img src="images/page2.PNG">
 
 <img src="images/sm1.PNG" style="margin: 0;">
 
