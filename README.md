@@ -1,4 +1,4 @@
-##Weather on the Way##
+**Weather on the Way**
 
 Get more information about the real situation outside your window using Weather on the way app.
 
