@@ -28,7 +28,6 @@ This project demonestrate some of JQuery technologies such as
 
 #API
 
-#animation.
 
 Click the link below to visit the website
 
