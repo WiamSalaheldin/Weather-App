@@ -37,7 +37,6 @@ __screen blueprint__
 
 <img src="images/sm2.PNG">
 
-<img src="images/Weather-french.jpeg">
 
 
 
