@@ -1,39 +1,35 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+Get more information about the real situation outside your window using Weather on the way app.
 
-Welcome USER_NAME,
+#About the app
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Weather on the way is a single app application (front-end website) where you can check the forecast of any city you would like.
 
-## Gitpod Reminders
+Project requierments
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Brief In this project, you’ll be building a frontend-only website using the technologies that you have learned throughout Interactive Frontend Development. You can either choose to use one of the example briefs below, or you can use your idea for the website.
 
-`python3 -m http.server`
+Create a Single Page Application that relies heavily on one or more APIs
 
-A blue button should appear to click: *Make Public*,
+#Languages:
 
-Another blue button should appear to click: *Open Browser*.
+HTML
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+CSS
 
-A blue button should appear to click: *Make Public*,
+BootStrap
 
-Another blue button should appear to click: *Open Browser*.
+JQuery
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+ajax
 
-## Updates Since The Instructional Video
+#Skills
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+This project demonestrate some of JQuery technologies such as
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#API
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+#animation.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Click the link below to visit the website
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+https://wiamsalaheldin.github.io/my-weather-app/index.html
