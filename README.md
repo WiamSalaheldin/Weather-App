@@ -41,8 +41,8 @@ __screen blueprint__
 
 
 
-__Click the link below to visit the website__
 
-[*Watch me*](https://wiamsalaheldin.github.io/weather-app/index.html)
+
+[__Give it try__](https://wiamsalaheldin.github.io/weather-app/index.html)
 
 
