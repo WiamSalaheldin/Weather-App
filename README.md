@@ -28,8 +28,8 @@ Create a Single Page Application that relies heavily on one or more APIs
 This project demonestrate some of JQuery technologies such as
 
 * API
-![GitHub Logo](C:\Users\14389\Desktop)
-![Alt Text](C:\Users\14389\Desktop)
+
+![Alt Text](C:\repo\JQuery\images)
 
 
 
