@@ -14,15 +14,15 @@ Create a Single Page Application that relies heavily on one or more APIs
 
 #Languages:
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-BootStrap
+* BootStrap
 
-JQuery
+* JQuery
 
-ajax
+* ajax
 
 #Skills
 
