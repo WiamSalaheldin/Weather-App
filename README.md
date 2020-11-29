@@ -29,6 +29,8 @@ This project demonestrate some of JQuery technologies such as
 
 * API
 
+__screen blueprint__
+
 <img src="images/Weather-french.jpeg" style="margin: 0;">
 
 
