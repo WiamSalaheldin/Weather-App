@@ -29,7 +29,7 @@ This project demonestrate some of JQuery technologies such as
 
 * API
 
-![Alt Text](C:\repo\JQuery\images)
+![Alt Text](weather-app/images/Weather-french.jpeg)
 
 
 
